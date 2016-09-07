@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="client">
+    <CLASSES>
+      <root url="file:///usr/lib/hadoop/client" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/lib/hadoop/client" />
+    </SOURCES>
+    <jarDirectory url="file:///usr/lib/hadoop/client" recursive="false" />
+    <jarDirectory url="file:///usr/lib/hadoop/client" recursive="false" type="SOURCES" />
+  </library>
+</component>
